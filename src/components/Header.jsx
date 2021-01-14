@@ -5,7 +5,7 @@ import HighlightIcon from '@material-ui/icons/Highlight';
 const Header = () => {
     return (
         <header>
-{/* < Avatar /> */}
+{/* < Avatar />  */}
 <h1>
     <HighlightIcon />
     Organizer
